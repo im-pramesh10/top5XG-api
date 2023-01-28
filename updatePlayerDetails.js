@@ -14,7 +14,7 @@ function loopPlayers(data) {
             fetch(`https://fantasy.premierleague.com/api/element-summary/${data.elements[i].id}/`)
             .then(res=>res.json())
             .then(data2=> {
-                writetofile(lengthCheck, data2, data.elements[i].id, data.elements[i].web_name);
+                writetofile(lengthCheck, data2, data.elements[i].id, data.elements[i].web_name, data.teams[data.elements[i].team-1].short_name);
             })
             .catch(err=> {
                 console.log(err);
@@ -23,12 +23,12 @@ function loopPlayers(data) {
     }
 }
 
-function writetofile(lengthCheck, data2, id, name) {
+function writetofile(lengthCheck, data2, id, name, team) {
     // console.log(data2);
     // console.log("hello"+i);
     let newdata = {
         "id": id,
-        "name": name,
+        "name": name+"("+team+")",
         ...data2
     };
     arr.push(newdata);
