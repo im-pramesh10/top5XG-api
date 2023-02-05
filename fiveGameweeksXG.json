@@ -1,27 +1,27 @@
 [
     {
-        "id": 335,
-        "name": "Rashford(MUN)",
-        "xgs": "2.445"
+        "id": 11,
+        "name": "Nketiah(ARS)",
+        "xgs": "3.000"
     },
     {
         "id": 318,
         "name": "Haaland(MCI)",
-        "xgs": "2.169"
+        "xgs": "2.690"
     },
     {
-        "id": 11,
-        "name": "Nketiah(ARS)",
-        "xgs": "2.039"
+        "id": 264,
+        "name": "Barnes(LEI)",
+        "xgs": "2.130"
+    },
+    {
+        "id": 145,
+        "name": "Havertz(CHE)",
+        "xgs": "1.880"
     },
     {
         "id": 394,
         "name": "Johnson(NFO)",
-        "xgs": "1.957"
-    },
-    {
-        "id": 210,
-        "name": "Mitrović(FUL)",
-        "xgs": "1.820"
+        "xgs": "1.800"
     }
 ]
