@@ -5,6 +5,11 @@
         "xgs": "2.070"
     },
     {
+        "id": 300,
+        "name": "Gündogan(MCI)",
+        "xgs": "2.020"
+    },
+    {
         "id": 11,
         "name": "Nketiah(ARS)",
         "xgs": "1.900"
@@ -18,10 +23,5 @@
         "id": 465,
         "name": "Bowen(WHU)",
         "xgs": "1.770"
-    },
-    {
-        "id": 103,
-        "name": "Welbeck(BHA)",
-        "xgs": "1.730"
     }
 ]
