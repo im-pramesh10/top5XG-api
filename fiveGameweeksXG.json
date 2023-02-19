@@ -1,27 +1,27 @@
 [
     {
-        "id": 145,
-        "name": "Havertz(CHE)",
-        "xgs": "2.070"
+        "id": 80,
+        "name": "Toney(BRE)",
+        "xgs": "1.960"
     },
     {
-        "id": 300,
-        "name": "Gündogan(MCI)",
-        "xgs": "2.020"
-    },
-    {
-        "id": 11,
-        "name": "Nketiah(ARS)",
-        "xgs": "1.900"
+        "id": 680,
+        "name": "Gakpo(LIV)",
+        "xgs": "1.820"
     },
     {
         "id": 427,
         "name": "Kane(TOT)",
-        "xgs": "1.800"
+        "xgs": "1.740"
+    },
+    {
+        "id": 333,
+        "name": "Fernandes(MUN)",
+        "xgs": "1.700"
     },
     {
         "id": 465,
         "name": "Bowen(WHU)",
-        "xgs": "1.770"
+        "xgs": "1.560"
     }
 ]
