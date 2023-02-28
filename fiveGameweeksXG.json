@@ -7,12 +7,7 @@
     {
         "id": 680,
         "name": "Gakpo(LIV)",
-        "xgs": "1.820"
-    },
-    {
-        "id": 427,
-        "name": "Kane(TOT)",
-        "xgs": "1.740"
+        "xgs": "1.900"
     },
     {
         "id": 333,
@@ -20,8 +15,13 @@
         "xgs": "1.700"
     },
     {
-        "id": 465,
-        "name": "Bowen(WHU)",
-        "xgs": "1.560"
+        "id": 300,
+        "name": "Gündogan(MCI)",
+        "xgs": "1.680"
+    },
+    {
+        "id": 11,
+        "name": "Nketiah(ARS)",
+        "xgs": "1.660"
     }
 ]
